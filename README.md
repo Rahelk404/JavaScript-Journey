@@ -9,6 +9,7 @@ This repository contains my JavaScript practice modules and problem-solving task
 * **Module 20:** Fundamentals of String & Objects (Keys, Values, Properties, Reverse, Slicing)
 * **Module 21:** Fundamentals of Functions (Arguments, Parameters, Return statements)
 * **Module 22:** JavaScript Simple Coding Problem - Part 1 (Math, Leap Year, Swap, Removing Duplicates)
+* **Module 23:** JavaScript Simple Coding Problem - Part 2 (Max/Min, Discount Logic, Shopping Cart, Validation)
 - **Conceptual Sessions:** Deep-dive practice files
 
 ---
